@@ -93,8 +93,8 @@ p
   height: 40px;
   width: 100px;
   transition-property: width;
-  transition-duration: 3s;
-  transition-delay: 2s;
+  transition-duration: 0s;
+  transition-delay: 0s;
   transition-timing-function: ease-in-out;
 }
 
