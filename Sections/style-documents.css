@@ -111,8 +111,8 @@ nav
 
 footer
 {
-    background: url('images/flechegrise.png') no-repeat top center,
-    url('images/separateurgris.png') repeat-x top;
+    background: url('../images/flechegrise.png') no-repeat top center,
+    url('../images/separateurgris.png') repeat-x top;
     background-size: 15px;
     padding-top: 25px;
 }
