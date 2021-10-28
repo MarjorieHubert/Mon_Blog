@@ -227,7 +227,6 @@ aside img
 
 footer
 {
-    display: flex;
     background: url('images/flechegrise.png') no-repeat top center,
     url('images/separateurgris.png') repeat-x top;
     background-size: 15px;
